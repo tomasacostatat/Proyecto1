@@ -1,1 +1,2 @@
-print("Hola, soy Tomas")
+print("buenas tardes , soy Tomas")
+print("☻")
